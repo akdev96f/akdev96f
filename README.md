@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/akdev96)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/akdev96f)
 
-I'm always open to collaborating on exciting projects or engaging in tech discussions. Feel free to connect with me on:
+I'm always open to collaborating on exciting projects or engaging in tech discussions. Feel free to connect with me.
 
 <div style="display: inline">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
