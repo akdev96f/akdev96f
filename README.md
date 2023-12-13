@@ -2,7 +2,7 @@ I'm always open to collaborating on exciting projects or engaging in tech discus
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akdev96/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/akdev96)
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/akdev96f)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightblue)](https://github.com/akdev96f)
 <div style="display: inline">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
